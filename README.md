@@ -13,4 +13,3 @@
 
 Available under [MIT license](https://opensource.org/licenses/MIT).
 
-
